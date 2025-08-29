@@ -46,7 +46,7 @@ Click on the "Console" tab in the developer tools that opened.
 
 ### Step 4: Copy and Paste the Script
 
-1. Open the `index.js` file in this repository
+1. Open the [index.js](index.js) file in this repository
 2. Copy all the code
 3. Paste it into the browser console
 4. Press Enter to execute
