@@ -24,6 +24,8 @@ YouTube Music 플레이리스트의 곡들을 자동으로 좋아요하는 브�
 
 ## 🚀 사용법
 
+### 0단계: 브라우저에서 목표 플레이리스트 사이트 열기
+
 ### 1단계: 브라우저 콘솔 열기
 
 1. **Chrome/Edge**: `F12` 또는 `Ctrl+Shift+I` (Windows/Linux) / `Cmd+Option+I` (Mac)
