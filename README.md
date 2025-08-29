@@ -24,6 +24,8 @@ A browser script that automatically likes songs in YouTube Music playlists. This
 
 ## 🚀 Usage
 
+### Step 0: Open the target playlist on browser
+
 ### Step 1: Open Browser Console
 
 1. **Chrome/Edge**: Press `F12` or `Ctrl+Shift+I` (Windows/Linux) / `Cmd+Option+I` (Mac)
